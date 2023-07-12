@@ -3,7 +3,7 @@
  * Copyright 2011-2020 The Bootstrap Authors
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+ 
  :root {
     --blue: #377dff;
     --indigo: #6610f2;
@@ -19186,7 +19186,7 @@ a.badge-soft-dark:focus, a.badge-soft-dark:hover {
     width: 21px;
     height: 21px;
     background-color: #bdc5d1;
-    /* border: .125rem solid #fff; */
+   
     padding: 0;
     border-radius: 50%
 }
@@ -24599,3 +24599,4 @@ a:hover .text-hover-primary {
     color: #ec9a3c !important
 }
 
+*/
