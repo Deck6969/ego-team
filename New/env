@@ -1,0 +1,31 @@
+MONGO_URI="mongodb+srv://coinage:Kingvi@56$@cluster0.ugmgygm.mongodb.net/?retryWrites=true&w=majority"
+JWT_SECRET="x5s1s32a54xhgj23asewqh32rfbfwqo2rrfnjk"
+
+whiteListedExtensions=['.apng', '.avif', '.gif', '.jpg', '.jpeg', '.jfif', '.pjpeg', '.pjp', '.png', '.svg', '.pdf', '.webm', '.mkv', '.flv', '.vob', '.ogg', '.ogv', '.gif', '.mov', '.wmv', '.3gp', '.mp4', '.m4p', '.m4v', '.mp3', '.wav']
+
+URL='http://api.fairemit.com.ng/'
+
+MAILGUN_BASE_URL='https://api.eu.mailgun.net/'
+MAILGUN_DOMAIN=<sandboxfe6af519d54d4824a1000870bb6dd321.mailgun.org>
+MAILGUN_API_KEY=<39515d7c3986188bedc0b44a27277997-3750a53b-3a73fd2c>
+SENDER_MAIL =info@fairemit.com
+
+ENCRYPTION_KEY='x5s1s32a54x23asewqh32sdfsdfwqouiddwq2rrfnjk'
+
+SUPER_ADMIN_NAME="Crypto Wallet Super Admin"
+SUPER_ADMIN_EMAIL="admin@gmail.com" # you can change your email
+SUPER_ADMIN_PASSWORD="123456789" # you can change your password
+
+STREAM_ID=<YOUR_STREAM_ID>
+MORALIS_API_KEY=<YOUR_MORALIS_API_KEY>
+IS_INSERT_COINS="true"
+
+EVM_HOT_WALLET=<YOUR_EVM_HOT_WALLET>
+TRON_HOT_WALLET=TMPC72STWjCxHkSBqVLFHkc9mE7drKX2Za
+BTC_HOT_WALLET=18kHk51YPPMMzy8KUdHVJKWzGjSYf7MtBi
+
+EVM_HOT_WALLET_KEY=<YOUR_EVM_HOT_WALLET_KEY>
+TRON_HOT_WALLET_KEY=F7E8A8CA24D71BD4C4B125B6203A5F5381BBAD41DBB375C183C027743FD85984
+BTC_HOT_WALLET_KEY=L5hvhuiLmfesKsXgHDECgThUtChRbfqCirue7AGSZCiNV8DLm7HU
+
+COINGECKO_API_URL = "https://api.coingecko.com/api/v3/"
